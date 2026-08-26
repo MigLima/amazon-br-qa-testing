@@ -20,7 +20,7 @@ Sistema testado: [Amazon Brasil](https://www.amazon.com.br) — módulo de busca
 
 | Arquivo | Descrição |
 |---|---|
-| [Test Plan](./Test_Plan_Amazon.docx) | Plano de teste completo: objetivo, escopo e critérios de validação |
+| [Test Plan](./Test_Plan_Amazon.pdf) | Plano de teste completo: objetivo, escopo e critérios de validação |
 | [Test Cases](./Test_Cases_Amazon.xlsx) | Casos de teste elaborados a partir do plano |
 | Bug Report | Em desenvolvimento — em breve |
 
