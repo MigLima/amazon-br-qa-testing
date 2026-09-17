@@ -22,7 +22,7 @@ Sistema testado: [Amazon Brasil](https://www.amazon.com.br) — módulo de busca
 |---|---|
 | [Test Plan](./Test_Plan_Amazon.pdf) | Plano de teste completo: objetivo, escopo e critérios de validação |
 | [Test Cases](./Test_Cases_Amazon.xlsx) | Casos de teste elaborados a partir do plano |
-| Bug Report | - |
+| [Bug Report](./Bug_Report_Amazon.xlsx) | Documento de Bug Report |
 
 ---
 Atividade prática realizada durante a Imersão de QA da LumeStack (agosto de 2026).
